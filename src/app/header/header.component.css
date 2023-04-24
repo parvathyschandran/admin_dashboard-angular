@@ -1,0 +1,13 @@
+mat-toolbar{
+    padding: 18px 15px;    
+}
+
+.flex-container{
+    width: 100%;
+}
+
+.flex-container ul{
+    display: flex;
+    justify-content:flex-end;
+    list-style: none;
+}

@@ -1,0 +1,44 @@
+.profile{
+    text-align: center;
+}
+
+.profile img{
+    width:120px;
+    height:140px;
+    object-fit: contain;
+    padding-top: 10px;
+}
+
+.profile h3{
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+
+h2{
+    font-size: medium;
+    padding-left: 20px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+
+.pages{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+}
+
+.pages a{
+    text-decoration: none;
+    color:black;
+    height: 30px;
+    padding: 10px 0 0 10px;
+}
+
+.pages a:hover{
+    background-color:rgb(185, 205, 223);
+}
+
+mat-icon{
+    vertical-align: middle;
+    margin-right: 5px;
+}
